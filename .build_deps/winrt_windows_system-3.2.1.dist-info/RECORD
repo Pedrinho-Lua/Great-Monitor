@@ -1,0 +1,11 @@
+winrt/_winrt_windows_system.cp312-win_amd64.pyd,sha256=PsR8TfG8EoaEDjI-YY_ZEvpCn5xWBkNrYlnphW7urxU,785920
+winrt/_winrt_windows_system.pyi,sha256=1ijumYw3DBqflLV6056qwjVq3Crv-olCId3FP1JLDsc,70609
+winrt/windows/system/__init__.py,sha256=zGsXcyacWcyHeICFSVqTLw4QA_VRq0eU393M3ogRQ-U,10042
+winrt/windows/system/__pycache__/__init__.cpython-312.pyc,,
+winrt/windows/system/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+winrt_windows_system-3.2.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+winrt_windows_system-3.2.1.dist-info/METADATA,sha256=ttjjMkK2Ba0t4UCXEOFHgZn5IU0AMNs03XC75Taz3oc,1700
+winrt_windows_system-3.2.1.dist-info/RECORD,,
+winrt_windows_system-3.2.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+winrt_windows_system-3.2.1.dist-info/WHEEL,sha256=8UP9x9puWI0P1V_d7K2oMTBqfeLNm21CTzZ_Ptr0NXU,101
+winrt_windows_system-3.2.1.dist-info/top_level.txt,sha256=BzwQb4dZRt0NxCXi10ARjWsox7Asmtf_lXrw_KR-D_E,6
